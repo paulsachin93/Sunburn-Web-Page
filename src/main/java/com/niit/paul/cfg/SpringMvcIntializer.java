@@ -1,3 +1,4 @@
+// author Sachin Paul
 package com.niit.paul.cfg;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
