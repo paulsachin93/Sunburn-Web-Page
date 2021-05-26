@@ -1,3 +1,5 @@
+// author Sachin Paul
+
 package com.niit.paul.model;
 
 public enum UserProfileType {
